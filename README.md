@@ -20,6 +20,6 @@ This git-repo is for a group project done in the course EECE5552 Assistive Robot
 # Getting Started 
 
 >SOFTWARES NEEDED: 
->ROS
->Python 3.8
->Solidworks
+>ROS,
+>Python 3.8,
+>Solidworks.
